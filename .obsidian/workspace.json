@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "105 PostgreSQL/3. pgAdmin Container.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1988c56a92b2fcf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "106 Android/Android MVVM mit  ViewModel und DataBinding.md",
+                "file": "103 Spring Data JPA/2. Maven Config.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "106 Android/Android MVVM mit  ViewModel und DataBinding.md",
+                "file": "103 Spring Data JPA/2. Maven Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "106 Android/Android MVVM mit  ViewModel und DataBinding.md",
+                "file": "103 Spring Data JPA/2. Maven Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "106 Android/Android MVVM mit  ViewModel und DataBinding.md"
+                "file": "103 Spring Data JPA/2. Maven Config.md"
               }
             }
           },
@@ -179,19 +166,31 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1988c56a92b2fcf3",
+  "active": "39bcbd0d17fc3804",
   "lastOpenFiles": [
-    "106 Android/Android MVVM mit  ViewModel und DataBinding.md",
-    "106 Android",
-    "105 PostgreSQL/2. PostgreSQL Container.md",
-    "105 PostgreSQL/1.  Einleitung PostgreSQL und pgAdmin in Docker.md",
-    "105 PostgreSQL/3. pgAdmin Container.md",
-    "104 Docker/1. Basics.md",
     "103 Spring Data JPA/1. Einleitung.md",
-    "104 Docker",
-    "101 Maven Projekte und Module/2. Aufgabenstellung.md",
-    "101 Maven Projekte und Module/3. Aufbau der Module.md",
+    "105 PostgreSQL/1.  Einleitung PostgreSQL und pgAdmin in Docker.md",
+    "106 Android/Android MVVM mit  ViewModel und DataBinding.md",
     "101 Maven Projekte und Module/1. Einleitung.md",
+    "103 Spring Data JPA/3. Entitäten.md",
+    "103 Spring Data JPA/2. Maven Config.md",
+    "103 Spring Data JPA/7. Repositories.md",
+    "103 Spring Data JPA/6. ManyToMany Beziehung.md",
+    "103 Spring Data JPA/5. OneToMany Beziehung.md",
+    "103 Spring Data JPA/4. OneToOne Beziehung.md",
+    "z_images/Spring_Data_JPA/Pasted image 20231105222813.png",
+    "z_images/Spring_Data_JPA",
+    "103 Spring Data JPA/999_images",
+    "z_images/Spring_Data_JPA/Pasted image 20231106001806.png",
+    "104 Docker/1. Docker Befehle.md",
+    "z_images/Spring_Data_JPA/Pasted image 20231106000936.png",
+    "105 PostgreSQL/3. pgAdmin Container.md",
+    "101 Maven Projekte und Module/3. Aufbau der Module.md",
+    "101 Maven Projekte und Module/2. Aufgabenstellung.md",
+    "105 PostgreSQL/2. PostgreSQL Container.md",
+    "106 Android",
+    "104 Docker/1. Basics.md",
+    "104 Docker",
     "102 Spring Boot Web/1. Einleitung.md",
     "105 PostgreSQL/Tabelle.md",
     "001.md",
@@ -207,12 +206,7 @@
     "z_images/Pasted image 20230915223944.png",
     "z_images/Pasted image 20230915223857.png",
     "z_images/Pasted image 20230915223826.png",
-    "z_images/Pasted image 20230915223641.png",
-    "z_images/Pasted image 20230915223416.png",
-    "z_images/Pasted image 20230915223331.png",
     "105 PostgreSQL",
-    "103 Spring Data JPA",
-    "102 Spring Boot Web",
-    "101 Maven Projekte und Module"
+    "103 Spring Data JPA"
   ]
 }
