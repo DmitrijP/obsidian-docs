@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "102 Spring Data JPA/2. Configuration.md",
+                "file": "101.1 SpringBoot/1. Projektkonfiguration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "102 Spring Data JPA/2. Configuration.md",
+                "file": "101.1 SpringBoot/1. Projektkonfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "102 Spring Data JPA/2. Configuration.md",
+                "file": "101.1 SpringBoot/1. Projektkonfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "102 Spring Data JPA/2. Configuration.md"
+                "file": "101.1 SpringBoot/1. Projektkonfiguration.md"
               }
             }
           },
@@ -168,19 +168,21 @@
   },
   "active": "256c47f7da05ad87",
   "lastOpenFiles": [
-    "106 PostgreSQL/1.  Einleitung PostgreSQL und pgAdmin in Docker.md",
+    "102 Spring Data JPA/2. Configuration.md",
+    "101.1 SpringBoot/1. Projektkonfiguration.md",
+    "101.1 SpringBoot",
     "102 Spring Data JPA/8. Services.md",
     "102 Spring Data JPA/7. Repositories.md",
     "102 Spring Data JPA/6. ManyToMany Beziehung.md",
     "102 Spring Data JPA/5. OneToMany Beziehung.md",
     "102 Spring Data JPA/4. OneToOne Beziehung.md",
     "102 Spring Data JPA/3. Entitäten.md",
-    "102 Spring Data JPA/2. Configuration.md",
+    "106 PostgreSQL/3. pgAdmin Container.md",
+    "106 PostgreSQL/2. PostgreSQL Container.md",
+    "106 PostgreSQL/1.  Einleitung PostgreSQL und pgAdmin in Docker.md",
     "102 Spring Data JPA/1. Einführung in die ausgewählten Konzepte von Spring Data JPA.md",
     "200 Android/Android MVVM mit  ViewModel und DataBinding.md",
     "106 PostgreSQL/Tabelle.md",
-    "106 PostgreSQL/3. pgAdmin Container.md",
-    "106 PostgreSQL/2. PostgreSQL Container.md",
     "105 Docker/1. Docker Befehle.md",
     "101 Maven Projekte und Module/3. Aufbau der Module.md",
     "101 Maven Projekte und Module/2. Aufgabenstellung.md",
@@ -201,7 +203,6 @@
     "200 Android",
     "104 Docker/1. Basics.md",
     "105 Docker",
-    "001.md",
     "001 Youtube",
     "ReadMe.md.txt",
     "Textdokument (neu).txt",
@@ -212,7 +213,6 @@
     "z_images/Pasted image 20230915224021.png",
     "z_images/Pasted image 20230915223944.png",
     "z_images/Pasted image 20230915223857.png",
-    "z_images/Pasted image 20230915223826.png",
-    "106 PostgreSQL"
+    "z_images/Pasted image 20230915223826.png"
   ]
 }
