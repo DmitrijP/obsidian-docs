@@ -19,7 +19,7 @@ Aktivieren Sie Data Binding, indem Sie `dataBinding true` in den `buildFeatures`
 
 ```groovy
 plugins {       
-id 'com.android.application'   
+	id 'com.android.application'   
 }      
 android {       
 	namespace 'de.dmitrijpatuk.simpledms'       
