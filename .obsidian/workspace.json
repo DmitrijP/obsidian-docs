@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101.1 SpringBoot/1. Projektkonfiguration.md",
+                "file": "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101.1 SpringBoot/1. Projektkonfiguration.md",
+                "file": "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101.1 SpringBoot/1. Projektkonfiguration.md",
+                "file": "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101.1 SpringBoot/1. Projektkonfiguration.md"
+                "file": "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md"
               }
-            }
-          },
-          {
-            "id": "0949e09849979ddd",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
             }
           },
           {
@@ -146,14 +138,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "9d5bdb209292d0c2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,40 +167,41 @@
   },
   "active": "256c47f7da05ad87",
   "lastOpenFiles": [
-    "102 Spring Data JPA/2. Configuration.md",
-    "101.1 SpringBoot/1. Projektkonfiguration.md",
-    "101.1 SpringBoot",
-    "102 Spring Data JPA/8. Services.md",
-    "102 Spring Data JPA/7. Repositories.md",
+    "104 Spring Boot & Thymeleaf/3. Ausdruckstypen.md",
+    "104 Spring Boot & Thymeleaf/2. Tags.md",
+    "104 Spring Boot & Thymeleaf/1. Dokumentation für Thymeleaf in Spring Boot Projekten.md",
+    "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md",
+    "104 Spring Boot & Thymeleaf/9. Javascript.md",
+    "Untitled.canvas",
+    "2023-12-04.md",
+    "102 Spring Data JPA/9. Data Seeder.md",
+    "103 Spring Boot ReST/3.1 Mappings in Spring Boot REST APIs.md",
+    "103 Spring Boot ReST/2. Konfiguration.md",
+    "103 Spring Boot ReST/3. RestController.md",
+    "103 Spring Boot ReST/3.2 Beispiel-Requests in PowerShell.md",
+    "103 Spring Boot ReST/1. Einleitung.md",
     "102 Spring Data JPA/6. ManyToMany Beziehung.md",
     "102 Spring Data JPA/5. OneToMany Beziehung.md",
     "102 Spring Data JPA/4. OneToOne Beziehung.md",
+    "102 Spring Data JPA/2. Configuration.md",
     "102 Spring Data JPA/3. Entitäten.md",
     "106 PostgreSQL/3. pgAdmin Container.md",
-    "106 PostgreSQL/2. PostgreSQL Container.md",
     "106 PostgreSQL/1.  Einleitung PostgreSQL und pgAdmin in Docker.md",
-    "102 Spring Data JPA/1. Einführung in die ausgewählten Konzepte von Spring Data JPA.md",
-    "200 Android/Android MVVM mit  ViewModel und DataBinding.md",
-    "106 PostgreSQL/Tabelle.md",
     "105 Docker/1. Docker Befehle.md",
-    "101 Maven Projekte und Module/3. Aufbau der Module.md",
-    "101 Maven Projekte und Module/2. Aufgabenstellung.md",
-    "101 Maven Projekte und Module/1. Einleitung.md",
-    "103 Spring Boot ReST/3.2 Beispiel-Requests in PowerShell.md",
-    "104 Spring Boot & Thymeleaf/1. Dokumentation für Thymeleaf in Spring Boot Projekten.md",
-    "103 Spring Boot ReST/3.1 Mappings in Spring Boot REST APIs.md",
-    "103 Spring Boot ReST/1. Einleitung.md",
-    "103 Spring Boot ReST/2. Konfiguration.md",
-    "103 Spring Boot ReST/3. RestController.md",
+    "102 Spring Data JPA/8. Services.md",
+    "102 Spring Data JPA/7. Repositories.md",
+    "106 PostgreSQL/2. PostgreSQL Container.md",
+    "101.1 SpringBoot/1. Projektkonfiguration.md",
+    "102 Spring Data JPA/1. Einführung in die ausgewählten Konzepte von Spring Data JPA.md",
+    "101.1 SpringBoot",
+    "200 Android/Android MVVM mit  ViewModel und DataBinding.md",
     "104 Spring Boot & Thymeleaf",
-    "ReadMe.md",
     "z_images/Spring_Data_JPA/Pasted image 20231105222813.png",
     "z_images/Spring_Data_JPA",
     "103 Spring Data JPA/999_images",
     "z_images/Spring_Data_JPA/Pasted image 20231106001806.png",
     "z_images/Spring_Data_JPA/Pasted image 20231106000936.png",
     "200 Android",
-    "104 Docker/1. Basics.md",
     "105 Docker",
     "001 Youtube",
     "ReadMe.md.txt",
