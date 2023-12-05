@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md",
+                "file": "104 Spring Boot & Thymeleaf/5.  Lokalisierung (i18n).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 498.5
   },
   "right": {
     "id": "b917eef97f739dc3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md",
+                "file": "104 Spring Boot & Thymeleaf/5.  Lokalisierung (i18n).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md",
+                "file": "104 Spring Boot & Thymeleaf/5.  Lokalisierung (i18n).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md"
+                "file": "104 Spring Boot & Thymeleaf/5.  Lokalisierung (i18n).md"
               }
             }
           },
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,11 +168,12 @@
   },
   "active": "256c47f7da05ad87",
   "lastOpenFiles": [
-    "104 Spring Boot & Thymeleaf/3. Ausdruckstypen.md",
+    "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Templates mit Fragmenten.md",
+    "104 Spring Boot & Thymeleaf/5.  Lokalisierung (i18n).md",
     "104 Spring Boot & Thymeleaf/2. Tags.md",
-    "104 Spring Boot & Thymeleaf/1. Dokumentation für Thymeleaf in Spring Boot Projekten.md",
-    "104 Spring Boot & Thymeleaf/4. Erstellung von modularen Thymeleaf-Templates mit Fragmenten.md",
+    "104 Spring Boot & Thymeleaf/3. Ausdruckstypen.md",
     "104 Spring Boot & Thymeleaf/9. Javascript.md",
+    "104 Spring Boot & Thymeleaf/1. Dokumentation für Thymeleaf in Spring Boot Projekten.md",
     "Untitled.canvas",
     "2023-12-04.md",
     "102 Spring Data JPA/9. Data Seeder.md",
@@ -194,7 +196,6 @@
     "101.1 SpringBoot/1. Projektkonfiguration.md",
     "102 Spring Data JPA/1. Einführung in die ausgewählten Konzepte von Spring Data JPA.md",
     "101.1 SpringBoot",
-    "200 Android/Android MVVM mit  ViewModel und DataBinding.md",
     "104 Spring Boot & Thymeleaf",
     "z_images/Spring_Data_JPA/Pasted image 20231105222813.png",
     "z_images/Spring_Data_JPA",
